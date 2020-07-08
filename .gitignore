@@ -4,3 +4,4 @@ data/vcf/*
 .ipynb_checkpoints/
 data/*
 results/*
+/data
