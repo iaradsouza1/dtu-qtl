@@ -1,0 +1,6 @@
+.Rhistory
+data/vcf/*
+*.ipynb
+.ipynb_checkpoints/
+data/*
+results/*
